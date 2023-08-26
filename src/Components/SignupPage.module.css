@@ -96,6 +96,7 @@
     width: 600px;
     /* margin-right: 200px; 
   }
+
   .rad{
     justify-content: center;
   }
@@ -114,6 +115,20 @@
   }
  .rad{
     justify-content: center;
+  }
+.btns{
+    display: block;
+    font-size: 1.4rem;
+    width: 80%;
+    height: 3.6rem;
+    line-height: 3.6rem;
+    border-radius: 0.4rem;
+    color: #ffffff;
+    text-align: center;
+    margin: 1.6rem auto;
+    /* background: #8863fb; */
+    background: linear-gradient(to right, #de57e5 -95%, #8863fb 100%);
+    cursor: pointer;
   }
   .gif{
     display: flex;
