@@ -11,7 +11,7 @@ import { CartContextProvider } from './Context/CartContext';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
-    <BrowserRouter basename='/bharatJewels'>
+    <BrowserRouter>
     <ChakraProvider>
     <AuthProvider>
     <CartContextProvider>
