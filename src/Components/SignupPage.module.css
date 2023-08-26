@@ -112,6 +112,9 @@
     color: white;
     cursor: pointer; 
   }
+  .rad{
+    justify-content: center;
+  }
   .gif{
     display: flex;
     justify-content: center;

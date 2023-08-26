@@ -737,15 +737,6 @@
       "shipping": "Sold by BHFO",
       "star": 4,
       "category": "Pendants"
-    },
-    {
-      "name": "Mukti Ring",
-      "price": "40000",
-      "image": "https://www.tanishq.co.in/product/ridged-single-stone-diamond-ring-500494fwaaa02.html?lang=en_IN",
-      "star": "3",
-      "shipping": "loria pvt.ltd.",
-      "category": "rings",
-      "id": 83
     }
   ],
   "wishlist": [
@@ -756,6 +747,15 @@
       "name": "Emma Flora Diamond Ring",
       "shipping": "Sold by BHFO",
       "star": 4,
+      "category": "rings"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR01832-YGP600_1_lar.jpg",
+      "price": 35176,
+      "name": "Mutyaa Pearl Ring",
+      "shipping": "Sold by BHFO",
+      "star": 3,
       "category": "rings"
     }
   ],
@@ -1153,6 +1153,13 @@
       "email": "usha@gmail.com",
       "password": "usha1234",
       "id": 2
+    },
+    {
+      "number": "6372840611",
+      "name": "Arpita Behera",
+      "email": "Arpita@gmail.com",
+      "password": "Arpita1234",
+      "id": 3
     }
   ],
   "trialproducts": [
