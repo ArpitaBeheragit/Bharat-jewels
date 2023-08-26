@@ -3,15 +3,15 @@ import styles from "./Adminindex.module.css"
 
 export const Adminindex=() => {
     return(
-        <div>
+        <div styles={{overflow:"hidden"}}>
             <nav className={styles.adminnav}>
                 <div className={styles.admintitle}>
                     <img className={styles.admin_logo} src={require(`../Images/logo1.png`)} alt="" />
                     <div className={styles.admintitle_text}>
-                        <span>H</span><p>ello</p>
+                        <span>H</span><p className={styles.title_text_part2}>ello</p>
                     </div>
                     <div className={styles.admintitle_text}>
-                        <span>A</span><p>dmin</p>
+                        <span>A</span><p className={styles.title_text_part3}>dmin</p>
                     </div>
                 </div>
                 <div className={styles.admin_control_btns}>
@@ -37,7 +37,7 @@ export const Adminindex=() => {
                         <a href="/prodform">Add products</a>
                     </div>
                     <div className={styles.admin_button2}>
-                        <a href="/prodata">Product edits</a>
+                        <a href="/alldata">Product edits</a>
                     </div>
                 </div>
             </div>

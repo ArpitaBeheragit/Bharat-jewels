@@ -748,8 +748,35 @@
       "id": 83
     }
   ],
-  "wishlist": [],
-  "cart": [],
+  "wishlist": [
+    {
+      "id": 1,
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR05167-WYP900_1_lar.jpg",
+      "price": 61481,
+      "name": "Emma Flora Diamond Ring",
+      "shipping": "Sold by BHFO",
+      "star": 4,
+      "category": "rings"
+    }
+  ],
+  "cart": [
+    {
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR08057-1RP900_1_lar.jpg",
+      "price": 40022,
+      "name": "Ben stone ring",
+      "shipping": "Sold by BHFO",
+      "star": 4,
+      "id": 1
+    },
+    {
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01833-1RP900_1_lar.jpg",
+      "price": 7643,
+      "name": "Butterflies Baby Nazaria Gold Bracelet",
+      "shipping": "Sold by BHFO",
+      "star": 3,
+      "id": 2
+    }
+  ],
   "Gifting": [
     {
       "id": 1,
