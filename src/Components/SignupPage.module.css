@@ -96,6 +96,7 @@
     width: 600px;
     /* margin-right: 200px; 
   }
+
   .rad{
     justify-content: center;
   }
@@ -111,9 +112,6 @@
     border-radius: 10px;
     color: white;
     cursor: pointer; 
-  }
-  .rad{
-    justify-content: center;
   }
   .gif{
     display: flex;

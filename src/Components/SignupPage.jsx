@@ -179,7 +179,7 @@ export const SignupPage = () => {
           />
           {errors.password && <div className={styles.error}>{errors.password}</div>}
         </div>
-        <button className={styles.submitbtn} type="submit">Sign Up</button>
+        <button className={styles.btns} type="submit">Sign Up</button>
       </form>
       
     </div>
