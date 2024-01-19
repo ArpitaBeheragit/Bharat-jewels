@@ -741,12 +741,12 @@
   ],
   "wishlist": [
     {
-      "id": 1,
-      "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR05167-WYP900_1_lar.jpg",
-      "price": 61481,
-      "name": "Emma Flora Diamond Ring",
+      "id": 4,
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR00858-WGP900_1_lar.jpg",
+      "price": 31205,
+      "name": "Jack Platinum Ring for Men",
       "shipping": "Sold by BHFO",
-      "star": 4,
+      "star": 3,
       "category": "rings"
     },
     {
@@ -761,11 +761,11 @@
   ],
   "cart": [
     {
-      "image": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01838-1YP600_1_lar.jpg",
-      "price": 98341,
-      "name": "Mohana Pearl  Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR01832-YGP600_1_lar.jpg",
+      "price": 35176,
+      "name": "Mutyaa Pearl Ring",
       "shipping": "Sold by BHFO",
-      "star": 4,
+      "star": 3,
       "id": 1
     }
   ],
@@ -1152,6 +1152,13 @@
       "email": "Arpita@gmail.com",
       "password": "Arpita1234",
       "id": 3
+    },
+    {
+      "number": "6372840611",
+      "name": "Arpita Behera",
+      "email": "Arpita@gmail.com",
+      "password": "Arpita123",
+      "id": 4
     }
   ],
   "trialproducts": [
