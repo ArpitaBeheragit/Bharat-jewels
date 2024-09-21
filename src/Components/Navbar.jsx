@@ -54,7 +54,7 @@ const Navbar= () =>{
                             <img className={styles.hamburger_icon} src={require(`../Images/hamburger-icon6.png`)} alt="" />
                         </a>
                     </div>
-                    <a href="/homepage"><img src={require(`../Images/logo1.png`)} alt="" /></a>
+                    <a href="/"><img src={require(`../Images/logo1.png`)} alt="" /></a>
                 </div>
                 <div className={styles.btns}>
                     <ul>

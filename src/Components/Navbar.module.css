@@ -738,7 +738,7 @@ li{
         width: 2.8rem;
         height: 3rem;
         margin-top: 1.4rem;
-        background-image: url(../Images/hamburger-icon6.png);
+        background-image: url('../Images/hamburger-icon6.png');
         background-size: cover;
     }
 
